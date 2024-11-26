@@ -6,7 +6,7 @@ require './vendor/autoload.php';
 use Monolog\Level;
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
-
+aa
 // create log
 $log = new Logger("LogWorkerDB");
 // define logs location
