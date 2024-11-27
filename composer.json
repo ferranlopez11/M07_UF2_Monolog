@@ -1,0 +1,15 @@
+{
+    "name": "ferranlopez/m07-uf2-monolog",
+    "autoload": {
+        "psr-4": {
+            "Ferranlopez\\M07Uf2Monolog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ferran",
+            "email": "pl2023316@365.stucom.com"
+        }
+    ],
+    "require": {}
+}
