@@ -1,5 +1,8 @@
 {
     "name": "ferranlopez/m07-uf2-monolog",
+    "description": "monolog_exercise",
+    "type": "project",
+    "license": "free",
     "autoload": {
         "psr-4": {
             "Ferranlopez\\M07Uf2Monolog\\": "src/"
@@ -11,5 +14,8 @@
             "email": "pl2023316@365.stucom.com"
         }
     ],
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "3.0@dev"
+    }
 }
